@@ -1,0 +1,5 @@
+﻿  提取视频中的前景物体.cpp
+E:\opencv\第十二章 创建视频序列\提取视频中的前景物体\提取视频中的前景物体\videoprocessor.h(327,1): warning C4267: “return”: 从“size_t”转换到“long”，可能丢失数据
+E:\opencv\第十二章 创建视频序列\提取视频中的前景物体\提取视频中的前景物体\videoprocessor.h(329,10): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+E:\opencv\第十二章 创建视频序列\提取视频中的前景物体\提取视频中的前景物体\提取视频中的前景物体.cpp(32,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  提取视频中的前景物体.vcxproj -> E:\opencv\第十二章 创建视频序列\提取视频中的前景物体\x64\Debug\提取视频中的前景物体.exe
